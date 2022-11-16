@@ -5,9 +5,9 @@
 
 body {
   background: url(https://media.tenor.com/oslAUCxTbO4AAAAd/rock-sus.gif) no-repeat;
-  background-size: 100vh 100vw;
-  -moz-background-size: 100vh 100vw;
-  -webkit-background-size: 100vh 100vw;
-  -o-background-size: 100vh 100vw;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
   overflow: hidden;
 }
