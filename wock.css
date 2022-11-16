@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  color: rgba(0,0,0,0);
+}
+
+body {
+  background: url(https://media.tenor.com/CMBMKG1URzMAAAAd/the-wock-the-rock.gif) no-repeat;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  overflow: hidden;
+}
